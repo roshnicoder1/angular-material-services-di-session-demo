@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": 100,
+      "title": "Note 1",
+      "text": "text 1"
+    },
+    {
+      "id": 101,
+      "title": "Note 2",
+      "text": "text 2"
+    },
+    {
+      "id": 102,
+      "title": "Note 3",
+      "text": "text 3"
+    },
+    {
+      "title": "Initial title",
+      "text": "Initial text",
+      "id": 103
+    },
+    {
+      "title": "Initial title",
+      "text": "Initial text",
+      "id": 104
+    },
+    {
+      "title": "Newly added ",
+      "text": "welcome",
+      "id": 105
+    }
+  ]
+}
